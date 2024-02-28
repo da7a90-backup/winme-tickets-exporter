@@ -54,7 +54,7 @@ export function Datatable({to, from}: DatatableProps){
         },
         {
          name: "badd_order_id",
-         label: "Badd Order ID",
+         label: "WinME Order ID",
          options: {
           filter: false,
           sort: false,
